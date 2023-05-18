@@ -5,6 +5,7 @@ object Config {
 
     const val appModulePackageName = "com.main.speedometerx"
     const val coreModulePackageName = "com.main.core"
+    const val digitalSpeedometerModulePackageName = "com.main.digital_speedometer"
 
     const val versionName = "1.0"
     const val versionCode = 1
