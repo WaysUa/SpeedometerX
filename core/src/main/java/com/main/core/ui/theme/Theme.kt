@@ -1,4 +1,4 @@
-package com.main.speedometerx.ui.theme
+package com.main.core.ui.theme
 
 import android.app.Activity
 import android.os.Build

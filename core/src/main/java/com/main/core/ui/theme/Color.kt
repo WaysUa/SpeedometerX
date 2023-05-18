@@ -1,4 +1,4 @@
-package com.main.speedometerx.ui.theme
+package com.main.core.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
